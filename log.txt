@@ -1,0 +1,11 @@
+1.0 
+- timesheet CRUD (done)
+
+1.0.1 
+- view all education information in edit
+- view all edu info in main page
+- edu data modification 
+- emergency contact fix data
+- reports to name fix
+- reports to image fix
+- database updated with reports to user data
